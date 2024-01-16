@@ -1,0 +1,15 @@
+# planar, gaa, circle, rectangle, triangle
+dataset:  'planar'
+# ann, rnn, MEEN, pinn
+
+model:  'ann'
+
+device:  cpu
+# planar225 gaa10
+batch_size:  225
+lr:  1e-4
+opt:  adam
+epoch:  50
+seed:  1
+
+notice:  "sigmoid"

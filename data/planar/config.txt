@@ -1,0 +1,5 @@
+vdd 1.2
+vdlin 0.1
+parameter Lg,Tox,Dop_LDD,Dop_psub,Cit,mumax
+lowerbound 0.05,0.0005,1e18,1e18,1e9,100
+upperbound 0.1,0.001,1e19,1e19,1e11,1000

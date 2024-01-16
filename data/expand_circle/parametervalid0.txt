@@ -1,0 +1,2 @@
+lg_nw,r_nw,t_ox,N_sd,eps_ox,index
+12,2,1,5.0e+19,22,0
